@@ -1,3 +1,3 @@
+![CafeTadris Logo](https://media.licdn.com/dms/image/C4D0BAQHW_Zlgx4CN8Q/company-logo_200_200/0/1630569937421/cafetadris_logo?e=2147483647&v=beta&t=kMAIa_Rg0H3gniIARuwssK50b9gv1dKhXg0oushXx0o)
 # CafeTadris Papers Repository
-
-Welcome to the official repository where I share my papers featured on the **CafeTadris Blog**. This space is dedicated to the dissemination of knowledge and findings in the realms of data science and machine learning.
+Welcome to the official repository where I share my papers featured on the [CafeTadris Blog](https://cafetadris.com/blog/category/%d8%af%db%8c%d8%aa%d8%a7-%d8%b3%d8%a7%db%8c%d9%86%d8%b3-%d9%88-%d9%85%d8%a7%d8%b4%db%8c%d9%86-%d9%84%d8%b1%d9%86%db%8c%d9%86%da%af/). This space is dedicated to the dissemination of knowledge and findings in the realms of data science and machine learning.
